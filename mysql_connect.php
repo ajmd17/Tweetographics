@@ -1,9 +1,9 @@
 <?php
 
 $servername = "127.0.0.1";
-$username = "ajmd1700_ajmd17";
-$password = "***REMOVED***";
-$dbname = "ajmd1700_db";
+$username = /*USERNAME*/;
+$password = /*PASSWORD*/;
+$dbname = /*DATABASE*/;
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
